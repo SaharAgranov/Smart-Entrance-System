@@ -30,3 +30,6 @@ This project integrates an Arduino microcontroller with a Python-based machine l
 ## Results
 The system successfully identifies authorized personnel and controls the door lock based on sensor input.
 
+Wiring Diagram based on Tinkercad simulator.
+![Thinkercards](https://github.com/user-attachments/assets/968cbf9a-7531-4ab6-8047-47d38fe778d4)
+
